@@ -4,7 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.31.0-red.svg)](https://streamlit.io)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange.svg)](https://scikit-learn.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
+https://bqspsjsj5hzumu47qw668j.streamlit.app/
 ## 📋 Project Overview
 
 This project implements a complete machine learning pipeline to analyze body performance data and predict:
